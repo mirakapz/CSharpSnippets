@@ -3,7 +3,7 @@ Add Manually:
 
 USERNAME\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets
 
-Import from C#:
+Import from Visual Studio:
 
 Tools/Code Snippet Manager/ Select Language: CSharp/ Select Import/ Import to My Code Snippets
 
