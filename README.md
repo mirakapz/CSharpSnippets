@@ -23,3 +23,5 @@ idpcr = int TEXT = double.Parse(Console.ReadLine());
 iipcr = int TEXT = int.Parse(Console.ReadLine());
 
 ipcr = int.Parse(Console.ReadLine());
+
+scr = string TEXT = Console.Readline();
