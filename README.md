@@ -10,16 +10,16 @@ Tools/Code Snippet Manager/ Select Language: CSharp/ Select Import/ Import to My
 How to use the Snippets:
 In the C# editor type:
 
-cr = Console.Readline();
+cr = Console.ReadLine();
 
-ddpcr = double TEXT = double.Parse(Console.Readline());
+ddpcr = double TEXT = double.Parse(Console.ReadLine());
 
-dipcr = double TEXT = int.Parse(Console.Readline());
+dipcr = double TEXT = int.Parse(Console.ReadLine());
 
-dpcr = double.Parse(Console.Readline());
+dpcr = double.Parse(Console.ReadLine());
 
-idpcr = int TEXT = double.Parse(Console.Readline());
+idpcr = int TEXT = double.Parse(Console.ReadLine());
 
-iipcr = int TEXT = int.Parse(Console.Readline());
+iipcr = int TEXT = int.Parse(Console.ReadLine());
 
-ipcr = int.Parse(Console.Readline());
+ipcr = int.Parse(Console.ReadLine());
