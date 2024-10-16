@@ -21,3 +21,5 @@ iipcr = int TEXT = int.Parse(Console.ReadLine());
 ipcr = int.Parse(Console.ReadLine());
 
 strcr = string TEXT = Console.Readline();
+
+elif = else if ()
